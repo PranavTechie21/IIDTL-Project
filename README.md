@@ -40,6 +40,7 @@ The complete schematic is available in the schematic.png file.
 You can also simulate and test this in Tinkercad.
 
 Schematic Diagram -
+
 ![Solar Panel Schematic Diagram](https://github.com/user-attachments/assets/558f6ff6-9b66-4803-9ec2-bc7ba8d1aa79)
 
 # 🚀 Getting Started
