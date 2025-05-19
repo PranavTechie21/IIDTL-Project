@@ -62,4 +62,12 @@ Implement energy storage and automatic night shutdown.
 
 https://github.com/user-attachments/assets/ccc5c155-cfa2-4b1a-bda5-830c56fd95cc
 
+# 🧑‍💻 Developed by
+Sanskar Tiwari  
+Siddhant Patil  
+Rohan Tatar  
+Pranav Oswal  
+Suyash Pekhale  
+Satyam Soni
+
 
