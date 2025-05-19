@@ -39,6 +39,9 @@ The complete schematic is available in the schematic.png file.
 ![TinkerCAD Project Diagram](https://github.com/user-attachments/assets/2044a64e-954b-47ba-affd-c8cbd7ee9e7b)
 You can also simulate and test this in Tinkercad.
 
+Schematic Diagram -
+![Solar Panel Schematic Diagram](https://github.com/user-attachments/assets/558f6ff6-9b66-4803-9ec2-bc7ba8d1aa79)
+
 # 🚀 Getting Started
 Connect all components as per the circuit diagram.
 
