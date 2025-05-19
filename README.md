@@ -11,7 +11,7 @@ Real-time light tracking with serial monitor logs.
 
 Simple hardware implementation using Arduino and basic electronic components.
 
-🔧 Components Used
+# 🔧 Components Used
 Component	Quantity
 Arduino UNO	1
 LDR (Light Sensor)	2
@@ -23,7 +23,7 @@ Battery (1.5V AA)	3
 Battery Holder	1
 Breadboard & Wires	As needed
 
-🧠 How It Works
+# 🧠 How It Works
 Two LDRs (left and right) measure the light intensity.
 
 The Arduino compares both values.
@@ -32,12 +32,12 @@ If there is a significant difference, it adjusts the servo motor to point toward
 
 An LED is used to indicate power or status (optional).
 
-🧪 Circuit Diagram
+# 🧪 Circuit Diagram
 The complete schematic is available in the schematic.png file.
 
 You can also simulate and test this in Tinkercad.
 
-🧾 Code
+# 🧾 Code
 cpp
 Copy
 Edit
@@ -83,7 +83,7 @@ void loop() {
 
   delay(100);
 }
-🚀 Getting Started
+# 🚀 Getting Started
 Connect all components as per the circuit diagram.
 
 Upload the code to your Arduino UNO using the Arduino IDE.
@@ -92,7 +92,7 @@ Open the Serial Monitor to observe the LDR values and servo movements.
 
 Test by shining light on either LDR and observe the servo motor rotation.
 
-📝 Future Improvements
+# 📝 Future Improvements
 Add a second axis for vertical tracking.
 
 Use a solar panel to power the system.
@@ -102,7 +102,7 @@ Store peak sunlight time and direction using RTC and EEPROM.
 Implement energy storage and automatic night shutdown.
 
 📷 Demo
-(Insert GIF or video link of your working project here, if available)
+![iidtl final](https://github.com/user-attachments/assets/c684836d-c00c-48a8-8b88-aa59c9a6a004)
 
 📄 License
 This project is licensed under the MIT License.
