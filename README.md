@@ -23,6 +23,7 @@ Red LED	1
 Battery (1.5V AA)	3
 Battery Holder	1
 Breadboard & Wires	As needed
+![component](https://github.com/user-attachments/assets/c0848311-bd56-4c2c-b072-86cada161f92)
 
 # 🧠 How It Works
 Two LDRs (left and right) measure the light intensity.
