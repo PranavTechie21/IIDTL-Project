@@ -1,6 +1,6 @@
 # ☀️ Smart Solar Panel
 This project demonstrates a basic smart solar panel system using an Arduino UNO, LDR sensors, and a servo motor to track the direction of sunlight and adjust the panel's orientation accordingly.
-![TinkerCAD Project Diagram](https://github.com/user-attachments/assets/2044a64e-954b-47ba-affd-c8cbd7ee9e7b)
+
 
 
 # 📌 Features
@@ -36,7 +36,7 @@ An LED is used to indicate power or status (optional).
 
 # 🧪 Circuit Diagram
 The complete schematic is available in the schematic.png file.
-
+![TinkerCAD Project Diagram](https://github.com/user-attachments/assets/2044a64e-954b-47ba-affd-c8cbd7ee9e7b)
 You can also simulate and test this in Tinkercad.
 
 # 🧾 Code
