@@ -1,4 +1,4 @@
-# ☀️ Smart Solar Panel
+# ☀️ Arduino Powered Smart Solar Panel
 This project demonstrates a basic smart solar panel system using an Arduino UNO, LDR sensors, and a servo motor to track the direction of sunlight and adjust the panel's orientation accordingly.
 ![iidtl final](https://github.com/user-attachments/assets/c684836d-c00c-48a8-8b88-aa59c9a6a004)
 
